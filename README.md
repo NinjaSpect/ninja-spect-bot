@@ -1,2 +1,2 @@
-# ninja-spect-bot
-Ninja Spect's Discord Bot
+# Ninja Spect Bot
+Ninja Spect's Discord Bot made by talented Developers.
